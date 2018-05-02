@@ -1,0 +1,7 @@
+C:\Users\Adrian\source\repos\AML_test_SDN_updater\AML_test_SDN_updater\bin\Debug\AML_test_SDN_updater.exe.config
+C:\Users\Adrian\source\repos\AML_test_SDN_updater\AML_test_SDN_updater\bin\Debug\AML_test_SDN_updater.exe
+C:\Users\Adrian\source\repos\AML_test_SDN_updater\AML_test_SDN_updater\bin\Debug\AML_test_SDN_updater.pdb
+C:\Users\Adrian\source\repos\AML_test_SDN_updater\AML_test_SDN_updater\obj\Debug\AML_test_SDN_updater.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\source\repos\AML_test_SDN_updater\AML_test_SDN_updater\obj\Debug\AML_test_SDN_updater.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\AML_test_SDN_updater\AML_test_SDN_updater\obj\Debug\AML_test_SDN_updater.exe
+C:\Users\Adrian\source\repos\AML_test_SDN_updater\AML_test_SDN_updater\obj\Debug\AML_test_SDN_updater.pdb
